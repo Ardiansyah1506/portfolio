@@ -24,8 +24,8 @@ function AboutCard() {
               <ImPointRight />
               <span className="me-auto">Kalkulator</span> 
             <div className="d-flex gap-2 align-items-center justify-content-center mt-2">
-              <a href="github.com/Ardiansyah1506/Kalkulator" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
-              <a href="Ardiansyah.github.io/Kalkulator" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
+              <a href="https://github.com/Ardiansyah1506/Kalkulator" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
+              <a href="https://Ardiansyah.github.io/Kalkulator" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
             </div>
             </div>
             </li>
@@ -34,8 +34,8 @@ function AboutCard() {
               <ImPointRight />
               <span className="me-auto">Zii Movie</span> 
             <div className="d-flex gap-2 align-items-center justify-content-center mt-2">
-              <a href="github.com/Ardiansyah1506/api-tmdb-react" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
-              <a href="Ardiansyah.github.io/api-tmdb-react" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
+              <a href="https://github.com/Ardiansyah1506/api-tmdb-react" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
+              <a href="https://Ardiansyah.github.io/api-tmdb-react" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
             </div>
             </div>
             </li>
@@ -44,8 +44,8 @@ function AboutCard() {
               <ImPointRight />
               <span className="me-auto">Flappy Bird</span> 
             <div className="d-flex gap-2 align-items-center justify-content-center mt-2">
-              <a href="github.com/Ardiansyah1506/flappy-bird" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
-              <a href="Ardiansyah.github.io/flappy-bird" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
+              <a href="https://github.com/Ardiansyah1506/flappy-bird" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
+              <a href="https://Ardiansyah.github.io/flappy-bird" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
             </div>
             </div>
             </li>
@@ -54,8 +54,8 @@ function AboutCard() {
               <ImPointRight />
               <span className="me-auto">Loker</span> 
             <div className="d-flex gap-2 align-items-center justify-content-center mt-2">
-              <a href="github.com/Ardiansyah1506/loker" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
-              <a href="fziardiansyah.xyz" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
+              <a href="https://github.com/Ardiansyah1506/loker" className="py-1 px-2 rounded border h6 text-decoration-none bg-purple text-white">Code</a>
+              <a href="https://fziardiansyah.xyz" className="py-1 px-2 rounded border h6 text-decoration-none bg-secondary text-white">Demo</a>
             </div>
             </div>
             </li>
